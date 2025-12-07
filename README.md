@@ -18,7 +18,4 @@
 [![My Skills](https://skillicons.dev/icons?i=java,nodejs,react&perline=15)](https://skillicons.dev)
 
 
-### Um pouco sobre mim
-    Após 4 anos de experiência no mercado de trabalho, decidi ingressar de vez na area onde sempre sonhei trabalhar, voltada ao desenvolvimento.
-    Estudo Analise e Desenvolvimento de Software no IFPS Campus São Carlos-SP. Sou um eterno aprendiz, e sempre estou disposto a aprender novos conceitos, linguagens e evoluir como pessoa.
 <hr>
